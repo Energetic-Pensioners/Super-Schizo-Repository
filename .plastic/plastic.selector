@@ -1,0 +1,4 @@
+repository "Super Schizo Sisters 2025-09-14_15-48-49/Super Schizo Sisters@18968275715382@cloud"
+  path "/"
+    br "/main"
+    co "/main"
